@@ -1,4 +1,9 @@
 ### Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pengshp/pengshp/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pengshp/pengshp/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pengshp/pengshp/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--
 **pengshp/pengshp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,16 +33,19 @@ Native Cloud Engineer
 Guangzhou,China
 
 ## Skills
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kubernetes.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/ansible.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vim.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg"></code>
+<img height="32" width="32" src="https://cdn.simpleicons.org/linux/FCC624" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/mysql/4479A1" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/docker/2496ED" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/kubernetes/326CE5" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/go/00ADD8" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/3776AB" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/ansible/EE0000" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/neovim/57A143" />
+
 
 ## OS
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/windows.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/archlinux.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/rockylinux.svg"></code>
+<img height="32" width="32" src="https://cdn.simpleicons.org/windows11/0078D4" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/archlinux/1793D1" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/rockylinux/10B981" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/openwrt/00B5E2" />
