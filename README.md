@@ -33,19 +33,18 @@ Native Cloud Engineer
 Guangzhou,China
 
 ## Skills
-<img height="32" width="32" src="https://cdn.simpleicons.org/linux/FCC624" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/mysql/4479A1" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/docker/2496ED" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/kubernetes/326CE5" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/go/00ADD8" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/3776AB" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/ansible/EE0000" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/neovim/57A143" />
-
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/linux/FCC624" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/mysql/4479A1" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/docker/2496ED" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/kubernetes/326CE5" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/go/00ADD8" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/python/3776AB" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/ansible/EE0000" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/neovim/57A143" /></code>
 
 ## OS
-<img height="32" width="32" src="https://cdn.simpleicons.org/windows11/0078D4" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/archlinux/1793D1" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/rockylinux/10B981" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/openwrt/00B5E2" />
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/windows11/0078D4" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/archlinux/1793D1" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/rockylinux/10B981" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/openwrt/00B5E2" /></code>
