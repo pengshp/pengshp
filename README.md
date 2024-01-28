@@ -48,3 +48,83 @@ Guangzhou,China
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/archlinux/1793D1" /></code>
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/rockylinux/10B981" /></code>
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/openwrt/00B5E2" /></code>
+
+<h2>🚀 Languages and Tools I Use</h2>
+<p> <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+        style="display: inline-block;"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42"
+            height="42" /></a><a target="_blank"
+        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+        style="display: inline-block;"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python" width="42" height="42" /></a><a target="_blank"
+        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+        style="display: inline-block;"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
+            width="42" height="42" /></a><a target="_blank"
+        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+        style="display: inline-block;"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="mongodb" width="42" height="42" /></a><a target="_blank"
+        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+        style="display: inline-block;"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            alt="mysql" width="42" height="42" /></a><a target="_blank"
+        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+        style="display: inline-block;"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+            alt="postgresql" width="42" height="42" /></a><a target="_blank"
+        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+        style="display: inline-block;"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+            alt="redis" width="42" height="42" /></a><a target="_blank"
+        href="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" style="display: inline-block;"><img
+            src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="42"
+            height="42" /></a><a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
+        style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite"
+            width="42" height="42" /></a><a target="_blank"
+        href="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" style="display: inline-block;"><img
+            src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="42"
+            height="42" /></a><a target="_blank"
+        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+        style="display: inline-block;"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+            alt="docker" width="42" height="42" /></a><a target="_blank"
+        href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="display: inline-block;"><img
+            src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42"
+            height="42" /></a><a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+        style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+            alt="bash" width="42" height="42" /></a><a target="_blank"
+        href="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="display: inline-block;"><img
+            src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="42"
+            height="42" /></a><a target="_blank"
+        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+        style="display: inline-block;"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+            alt="photoshop" width="42" height="42" /></a><a target="_blank"
+        href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img
+            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42"
+            height="42" /></a><a target="_blank" href="https://api.iconify.design/logos-hugo.svg"
+        style="display: inline-block;"><img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="42"
+            height="42" /></a><a target="_blank"
+        href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+        style="display: inline-block;"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
+            width="42" height="42" /></a><a target="_blank"
+        href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+</p>
+
+</p>
+<h2>⚡️ Where to find me</h2>
+<p> <a target="_blank" href="https://dev.to/pengshp" style="display: inline-block;"><img
+            src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black"
+            alt="dev.to" /></a><a target="_blank" href="https://stackoverflow.com/users/9294702"
+        style="display: inline-block;"><img
+            src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=#cc0000"
+            alt="stackoverflow" /></a> </p>
+<h2>❤️ Support Me</h2>
+<p>
+<p> <a href="https://www.buymeacoffee.com/pengshp3"> <img
+            src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" /> </a> </p>
+</p>
