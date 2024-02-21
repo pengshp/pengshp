@@ -49,6 +49,9 @@ Guangzhou,China
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/rockylinux/10B981" /></code>
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/openwrt/00B5E2" /></code>
 
+## Daily.dev
+<a href="https://app.daily.dev/nealpeng"><img src="https://api.daily.dev/devcards/v2/f2A4xZC0mbGhxZXlBFk07.png?type=wide&r=4pd" width="652" alt="Neal Peng's Dev Card"/></a>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p> <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
         style="display: inline-block;"><img
