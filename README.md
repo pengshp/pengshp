@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pengshp/pengshp/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pengshp/pengshp/output/github-contribution-grid-snake.svg">
@@ -44,7 +44,6 @@ Guangzhou,China
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/neovim/57A143" /></code>
 
 ## OS
-<code><img height="32" width="32" src="https://cdn.simpleicons.org/windows11/0078D4" /></code>
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/archlinux/1793D1" /></code>
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/rockylinux/10B981" /></code>
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/openwrt/00B5E2" /></code>
@@ -131,3 +130,7 @@ Guangzhou,China
 <p> <a href="https://www.buymeacoffee.com/pengshp3"> <img
             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" /> </a> </p>
 </p>
+
+## My recommendation
+### AI Tools
+1. [SiliconFlow-Register to receive 20 million tokens.](https://cloud.siliconflow.cn/i/PSCv1kES)
