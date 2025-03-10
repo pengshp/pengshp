@@ -139,4 +139,4 @@ Guangzhou,China
 ### VPS
 1. [Vultr服务器-注册送10$](https://www.vultr.com/?ref=6970034)
 2. [DigtalOcean服务器-注册送10$](https://m.do.co/c/655f233acdc9)
-3. [阿里云服务器优惠](https://www.aliyun.com/minisite/goods?userCode=shw4lml5)
+3. [阿里云服务器优惠](https://www.aliyun.com/minisite/goods?userCode=shw4lml5&share_source=copy_link)
